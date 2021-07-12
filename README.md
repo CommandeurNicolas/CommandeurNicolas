@@ -1,8 +1,10 @@
-<h1 align="center"> Hello there ! </h1>
 <p align="center">
     <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" style="border-radius: 5px;">
 </p>
-<p align="center"><small><i>"General Kenobi"</i></small></p>
+<h1 align="center">Hello there, I'm Nicolas !</h1>
+<p align="center">
+    <small><i>"General Kenobi"</i></small>
+</p>
 
 
 ## 🙋‍♂️ About Me
@@ -52,39 +54,43 @@
 
 ## 📊 My Github Stats
 <p align="center">
-    <!-- GOTHAM  -->
-    <!-- <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=8&count_private=true&layout=compact&theme=gotham&hide_border=true" /></a> -->
-    <!-- BUEFY DARK -->
-    <!-- <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=6&count_private=true&layout=compact&theme=buefy&hide_border=true&bg_color=1A1B27&text_color=d1d1d1" /></a> -->
-    <!-- DARK -->
-    <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=6&count_private=true&layout=compact&hide_border=true&bg_color=151515&text_color=FDFDFD&title_color=F28701&icon_color=F28701" /></a>
-</p>
-<p align="center">
-    <!-- GOTHAM  -->
-    <!-- <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&theme=gotham&hide_border=true" /></a> -->
-    <!-- BUEFY DARK -->
-    <!-- <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&theme=buefy&hide_border=true&bg_color=1A1B27&text_color=d1d1d1" /></a> -->
-    <!-- DARK -->
-    <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&hide_border=true&bg_color=151515&text_color=FDFDFD&title_color=F28701&icon_color=F28701" /></a>
-</p>
-<p align="center">
-    <a href="https://github.com/CommandeurNicolas/github-readme-streak-stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <!-- GOTHAM  -->
-        <!-- <img alt="Nicolas Commandeur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CommandeurNicolas&theme=gotham&hide_border=true&stroke=0000"/> -->
-        <!-- BUEFY DARK  -->
-        <!-- <img alt="Nicolas Commandeur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CommandeurNicolas&theme=buefy-dark&hide_border=true&stroke=0000"/> -->
-        <!-- DARK  -->
-        <img alt="Nicolas Commandeur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CommandeurNicolas&theme=dark&hide_border=true&stroke=0000"/>
+        <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=8&count_private=true&layout=compact&theme=gotham&hide_border=true" />
+        <!-- BUEFY DARK -->
+        <!-- <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=6&count_private=true&layout=compact&theme=buefy&hide_border=true&bg_color=1A1B27&text_color=d1d1d1" /> -->
+        <!-- DARK -->
+        <!-- <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=6&count_private=true&layout=compact&hide_border=true&bg_color=151515&text_color=FDFDFD&title_color=F28701&icon_color=F28701" /> -->
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/CommandeurNicolas/github-readme-activity-graph">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <!-- GOTHAM  -->
+        <img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&theme=gotham&hide_border=true" />
+        <!-- BUEFY DARK -->
+        <!-- <img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&theme=buefy&hide_border=true&bg_color=1A1B27&text_color=d1d1d1" /> -->
+        <!-- DARK -->
+        <!-- <img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&hide_border=true&bg_color=151515&text_color=FDFDFD&title_color=F28701&icon_color=F28701" /> -->
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <!-- GOTHAM  -->
+        <img alt="Nicolas Commandeur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CommandeurNicolas&theme=gotham&hide_border=true&stroke=0000"/>
+        <!-- BUEFY DARK  -->
+        <!-- <img alt="Nicolas Commandeur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CommandeurNicolas&theme=buefy-dark&hide_border=true&stroke=0000"/> -->
+        <!-- DARK  -->
+        <!-- <img alt="Nicolas Commandeur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CommandeurNicolas&theme=dark&hide_border=true&stroke=0000"/> -->
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
         <!-- GOTHAM  -->
         <!-- <img alt="Nicolas Commandeur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CommandeurNicolas&bg_color=0C1014&color=98D0CD&line=259076&point=98D0CD&hide_border=true" /> -->
         <!-- BUEFY DARK  -->
         <!-- <img alt="Nicolas Commandeur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CommandeurNicolas&bg_color=1A1B27&color=6A4DB9&line=FE3860&point=D0D0D0&hide_border=true" /> -->
         <!-- DARK  -->
-        <img alt="Nicolas Commandeur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CommandeurNicolas&bg_color=151515&color=FDFDFD&line=F28701&point=FFFFFF&hide_border=true" />
+        <!-- <img alt="Nicolas Commandeur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CommandeurNicolas&bg_color=151515&color=FDFDFD&line=F28701&point=FFFFFF&hide_border=true" /> -->
     </a>
 </p>
 
