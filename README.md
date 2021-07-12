@@ -53,22 +53,22 @@
 ## 📊 My Github Stats
 <p align="center">
     <!-- GOTHAM  -->
-    <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=8&count_private=true&layout=compact&theme=gotham&hide_border=true" /></a> -->
+    <!-- <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=8&count_private=true&layout=compact&theme=gotham&hide_border=true" /></a> -->
     <!-- BUEFY DARK -->
-    <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=6&count_private=true&layout=compact&theme=buefy&hide_border=true&bg_color=1A1B27&text_color=d1d1d1" /></a> -->
+    <!-- <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=6&count_private=true&layout=compact&theme=buefy&hide_border=true&bg_color=1A1B27&text_color=d1d1d1" /></a> -->
     <!-- DARK -->
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=6&count_private=true&layout=compact&hide_border=true&bg_color=151515&text_color=FDFDFD&title_color=F28701&icon_color=F28701" /></a>
+    <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommandeurNicolas&langs_count=6&count_private=true&layout=compact&hide_border=true&bg_color=151515&text_color=FDFDFD&title_color=F28701&icon_color=F28701" /></a>
 </p>
 <p align="center">
     <!-- GOTHAM  -->
-    <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&theme=gotham&hide_border=true" /></a> -->
+    <!-- <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&theme=gotham&hide_border=true" /></a> -->
     <!-- BUEFY DARK -->
-    <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&theme=buefy&hide_border=true&bg_color=1A1B27&text_color=d1d1d1" /></a> -->
+    <!-- <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&theme=buefy&hide_border=true&bg_color=1A1B27&text_color=d1d1d1" /></a> -->
     <!-- DARK -->
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&hide_border=true&bg_color=151515&text_color=FDFDFD&title_color=F28701&icon_color=F28701" /></a>
+    <a href="https://github.com/CommandeurNicolas/github-readme-stats"><img alt="Nicolas Commandeur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CommandeurNicolas&show_icons=true&count_private=true&hide_border=true&bg_color=151515&text_color=FDFDFD&title_color=F28701&icon_color=F28701" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/CommandeurNicolas/github-readme-streak-stats">
         <!-- GOTHAM  -->
         <!-- <img alt="Nicolas Commandeur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CommandeurNicolas&theme=gotham&hide_border=true&stroke=0000"/> -->
         <!-- BUEFY DARK  -->
@@ -78,7 +78,7 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph">
+    <a href="https://github.com/CommandeurNicolas/github-readme-activity-graph">
         <!-- GOTHAM  -->
         <!-- <img alt="Nicolas Commandeur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CommandeurNicolas&bg_color=0C1014&color=98D0CD&line=259076&point=98D0CD&hide_border=true" /> -->
         <!-- BUEFY DARK  -->
@@ -92,7 +92,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/nicolas-commandeur-623776215/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
@@ -100,7 +100,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=CommandeurNicolas">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/CommandeurNicolas?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/CommandeurNicolas?tab=followers"><img src="https://img.shields.io/github/followers/CommandeurNicolas?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
