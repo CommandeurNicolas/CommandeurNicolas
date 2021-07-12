@@ -1,10 +1,9 @@
 <p align="center">
     <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" style="border-radius: 5px;">
-</p>
-<h1 align="center">Hello there, I'm Nicolas !</h1>
-<p align="center">
+    <br/>
     <small><i>"General Kenobi"</i></small>
 </p>
+<h1 align="center">Hello there, I'm Nicolas !</h1>
 
 
 ## 🙋‍♂️ About Me
