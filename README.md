@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[GeoRapport](https://github.com/CommandeurNicolas/GeoRapport_MobileApp)**
+- 🔭 I’m currently working on **[GeoRapport Mobile App](https://github.com/CommandeurNicolas/GeoRapport_MobileApp)** and **[GeoRapport Web App](https://github.com/noudbeer/GeoRapportWeb)**
 
 - 🌱 I’m currently learning **Kotlin language !**
 
