@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[GeoRapport Mobile App](https://github.com/CommandeurNicolas/GeoRapport_MobileApp)** and **[GeoRapport Web App](https://github.com/noudbeer/GeoRapportWeb)**
+- 🔭 I’m currently working on a secret project ! *shhh don't tell what it is ;)*
 
-- 🌱 I’m currently learning **Kotlin language !**
+- 🌱 I’m currently learning **Kotlin language and IOS app development !**
 
 - 👯 I’m looking to collaborate on **Mobiles apps development**
 
@@ -30,6 +30,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/kotlin.png"/> </a>
+    <a href="https://www.apple.com/fr/swift/" target="_blank"> <img src="<img src="https://img.icons8.com/color/48/000000/swift.png"/>"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/flutter.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
