@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a secret project ! *shhh don't tell what it is ;)*
+- 🔭 I’m currently working on a **secret project !** *shhh, i can't tell you what it is...*
 
 - 🌱 I’m currently learning **Kotlin language and IOS app development !**
 
