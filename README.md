@@ -9,10 +9,10 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on a **secret project !** *shhh, i can't tell you what it is...*
-
-- 🌱 I’m currently learning **Kotlin language and IOS app development !**
-
-- 👯 I’m looking to collaborate on **Mobiles apps development**
+<!--
+- 🌱 I’m currently learning **IOS app development and Kotlin language !**
+-->
+- 👯 I’m looking to collaborate on **iOS apps development**
 
 <!--
     - 👨‍💻 All of my projects are available at **[Portfolio : NullPointerException]()**
@@ -27,6 +27,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.apple.com%2Fxcode%2F&psig=AOvVaw2yVQyhbWTl8557ZSo36Nl6&ust=1670939322849000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOj_t5ic9PsCFQAAAAAdAAAAABAE"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/kotlin.png"/> </a>
