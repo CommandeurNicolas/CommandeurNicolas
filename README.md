@@ -12,7 +12,7 @@
 <!--
 - 🌱 I’m currently learning **IOS app development and Kotlin language !**
 -->
-- 👯 I’m looking to collaborate on **iOS apps development**
+- 👯 I’m looking to collaborate on **Android and/or iOS apps development**
 
 <!--
     - 👨‍💻 All of my projects are available at **[Portfolio : NullPointerException]()**
